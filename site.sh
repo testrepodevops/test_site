@@ -15,7 +15,7 @@ cat <<EOF > /var/www/html/index.nginx-debian.html
 </head>
 
 <body>
-<h1>Setup Nginx page content</h1>
+<h1>Setup Nginx release 0.1</h1>
 </body>
 
 </html>
